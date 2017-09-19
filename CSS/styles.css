@@ -1,0 +1,31 @@
+h2.intro {
+  width: 50%;
+  font-style: italic;
+  color: red;
+}
+
+p.intro {
+  font-style: oblique;
+  font-weight: bold;
+}
+
+img.intro {
+  float: none;
+  padding: 100px;
+  
+}
+
+.my-text {
+  float: left;
+  color: blue;
+  font-size: 24px;
+}
+.veniam {
+  color: red;
+}
+
+.red-frog {
+  float: none;
+  padding-left: 40px;
+  margin-top: 500px;
+}
